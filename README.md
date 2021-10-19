@@ -4,7 +4,7 @@
 * Hadoop 部署 HDFS 调通 MapReduce样例 HBase (10.15 Finished)
 * YCSB测试
   * Finish: HBase 测试
-  * TODO: 实验指标效果粒度细化, OLTP-Bench with YCSB
+  * TODO: YCSB业务代码阅读，实验指标效果粒度细化, OLTP-Bench with YCSB
 ## 郭腾跃
 * OLTP Bench with TPC-C
   * Finished: PostgreSQL 测试调通
